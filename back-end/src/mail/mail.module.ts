@@ -12,8 +12,8 @@ import { resolve } from 'path';
         secure: true,
         port: 465,
         auth: {
-          user: 'guiratguirat123@gmail.com',
-          pass: 'Walid1998*',
+          user: '@gmail.com',
+          pass: '',
         },
       },
       defaults: {
